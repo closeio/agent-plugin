@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "close",
   "version": "0.1.0",
-  "description": "Use the Close plugin to search and manage CRM records; analyze emails, SMS messages, and call and meeting transcripts; create Workflows; and manage Voice Agents.",
+  "description": "Use the Close plugin to search, manage, or analyze CRM records and communication activities. The plugin also includes tools to create Workflows, manage Voice Agents, and more.",
   "author": {
     "name": "Close",
     "email": "support@close.com"
