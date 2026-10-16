@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "close",
   "version": "0.1.0",
-  "description": "Connect your AI agent to Close CRM to research leads, review pipeline, analyze sales activity, and safely update CRM records.",
+  "description": "Use the Close plugin to search and manage CRM records; analyze emails, SMS messages, and call and meeting transcripts; create Workflows; and manage Voice Agents.",
   "author": {
     "name": "Close",
     "email": "support@close.com"

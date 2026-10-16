@@ -1,8 +1,8 @@
 # Close Agent Plugin
 
-The official Close plugin connects AI agents to your Close CRM through Close's hosted Model Context Protocol (MCP) server. It follows the [Agent Plugins 1.0.0 standard](https://agent-plugins.org/specification) so the same package can be used by compatible clients and marketplaces.
+Use the Close plugin to search and manage CRM records; analyze emails, SMS messages, and call and meeting transcripts; create Workflows; and manage Voice Agents.
 
-Use natural language to research leads, prepare account briefs, review sales activity and pipeline, find tasks, answer Close product questions, and—with the permission scope you choose—create or update CRM records.
+The official Close plugin connects AI agents to your Close CRM through Close's hosted Model Context Protocol (MCP) server. It follows the [Agent Plugins 1.0.0 standard](https://agent-plugins.org/specification) so the same package can be used by compatible clients and marketplaces.
 
 ## Install and connect
 

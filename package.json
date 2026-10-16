@@ -2,7 +2,7 @@
   "name": "close-agent-plugin",
   "version": "0.1.0",
   "private": true,
-  "description": "Official Close plugin for clients supporting the Agent Plugins standard",
+  "description": "Use the Close plugin to search and manage CRM records; analyze emails, SMS messages, and call and meeting transcripts; create Workflows; and manage Voice Agents.",
   "engines": {
     "node": ">=22"
   },
